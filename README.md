@@ -22,23 +22,23 @@ HTML5, CSS, JavaScript, Node.js, Express, Heroku
 ## Installation
 
 Please follow these steps to install and run the project on your local machine:
+
 Installation instructions coming in a future update.
   
 ## Usage
   
 To use this project, follow these steps:
+
 Usage instructions coming in a future update.
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 Contributions are not currently available for this project.
-
-Please ensure your pull request adheres to the project's code style and includes tests for any new features or changes. Thank you for your contributions!
 
 ## Tests
 
 To run tests on this project, follow these steps:
+
 Testing instruction coming in a future update.
   
 ## Project Links
